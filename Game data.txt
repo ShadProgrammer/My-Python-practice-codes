@@ -1,0 +1,14 @@
+<Player's history:>
+
+Player's name: GameTesting023
+Final number: 49750
+'King/Queen of the game'
+
+Player's name: GameTesting092
+Final number: -195
+'Senior Pro
+
+Player's name: GameTesting007
+Final number: 0
+'Mastermind of this game'
+
