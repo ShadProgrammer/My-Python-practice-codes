@@ -1,0 +1,8 @@
+Bus Sr.No.,Types of Buses,Features,Seats,Cost
+1,Parveen-Travels,Non-AC-seater,2|2,1000Rs
+2,VRL-Travels,Non-AC-sleeper,2|1,1200Rs
+3,Prasanna-Travels,Non-AC-airbus,2|2,2000Rs
+4,Jabbar-Travels,Semi-Sleeper,2|2,1500Rs
+5,Hans-Travels,AC-sleeper,2|1,1800Rs
+6,KPN-Travels,AC-seater,2|2,19500Rs
+7,Kaleswari-Travels,AC-airbus,2|2,2350Rs
